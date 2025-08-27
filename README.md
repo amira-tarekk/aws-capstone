@@ -93,14 +93,13 @@ The solution follows AWS best practices for scalability, availability, and secur
 
 ---
 
-## 📚 Lessons Learned
+## 📚 Lessons Learned and Final Grade
 - Designing for **high availability** requires careful subnet and AZ planning.
 - **Secrets Manager** greatly simplifies credential rotation and security.
 - **Auto Scaling** ensures elasticity while keeping costs manageable.
 - The separation of **public and private subnets** improves security posture.
 
+![final grade](screenshots/grade.jpg)
 ---
 
-## 👤 Author
-- **amira tarek**  
-- Completed as part of **AWS Academy Cloud Architecting (ACA) – Capstone Project**
+
