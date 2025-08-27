@@ -99,7 +99,7 @@ The solution follows AWS best practices for scalability, availability, and secur
 - **Auto Scaling** ensures elasticity while keeping costs manageable.
 - The separation of **public and private subnets** improves security posture.
 
-![final grade](screenshots/grade.jpg)
+![final grade](screenshots/1755282723825.jpeg)
 ---
 
 
